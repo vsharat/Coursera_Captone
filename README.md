@@ -1,2 +1,2 @@
 # Coursera_Captone
-IBM Applied Data Science Captstone Project on COursera
+IBM Applied Data Science Captstone Project on Coursera
